@@ -2,10 +2,7 @@
 👨‍⚖️INTELIGÊNCIA ARTIFICIAL É UM CAMPO DA CIÊNCIA DA COMPUTAÇÃO QUE SE DEDICA A CRIAR SISTEMAS CAPAZES DE REALIZAR TAREFAS QUE NORMALMENTE REQUEREM INTELIGÊNCIA HUMANA, COMO RECONHECIMENTO DE VOZ, PROCESSAMENTO DE LINGUAGEM NATURAL E TOMADA DE DECISÕES.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=IA)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLxI8Can9yAHfY4b6dAzpH5_Z-gz4wM-Jq&si=ZyV-aOWCdEio-sIh)
-
-<img src="https://www.gedai.com.br/wp-content/uploads/2023/02/android-male-1024x780.png" align="center" width="280"> <br>
 
 ## CONCEITO:
 A inteligência artificial (IA) é um campo da ciência da computação que se concentra no desenvolvimento de sistemas de computador e algoritmos capazes de realizar tarefas que normalmente exigiriam inteligência humana. O objetivo da IA é criar máquinas e programas de computador que podem simular a capacidade humana de aprender, raciocinar, resolver problemas, compreender linguagem natural e até mesmo perceber o ambiente. Aqui estão alguns conceitos-chave relacionados à inteligência artificial:
