@@ -1,8 +1,7 @@
 # CURSO DE INTELIGÊNCIA ARTIFICIAL
 👨‍⚖️INTELIGÊNCIA ARTIFICIAL É UM CAMPO DA CIÊNCIA DA COMPUTAÇÃO QUE SE DEDICA A CRIAR SISTEMAS CAPAZES DE REALIZAR TAREFAS QUE NORMALMENTE REQUEREM INTELIGÊNCIA HUMANA, COMO RECONHECIMENTO DE VOZ, PROCESSAMENTO DE LINGUAGEM NATURAL E TOMADA DE DECISÕES.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLxI8Can9yAHfY4b6dAzpH5_Z-gz4wM-Jq&si=ZyV-aOWCdEio-sIh)
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 A inteligência artificial (IA) é um campo da ciência da computação que se concentra no desenvolvimento de sistemas de computador e algoritmos capazes de realizar tarefas que normalmente exigiriam inteligência humana. O objetivo da IA é criar máquinas e programas de computador que podem simular a capacidade humana de aprender, raciocinar, resolver problemas, compreender linguagem natural e até mesmo perceber o ambiente. Aqui estão alguns conceitos-chave relacionados à inteligência artificial:
@@ -26,10 +25,7 @@ A inteligência artificial (IA) é um campo da ciência da computação que se c
 Esses são apenas alguns conceitos básicos relacionados à inteligência artificial. À medida que você avança em seu curso, você provavelmente explorará esses tópicos com mais detalhes e aprenderá sobre técnicas específicas para implementar sistemas de IA. 
 
 ## CARACTERISTICAS:
-A inteligência artificial (IA) apresenta diversas características positivas e negativas, que variam dependendo do contexto de aplicação e da forma como a tecnologia é usada. Aqui estão algumas das características positivas e negativas da IA:
-
-### Características Positivas:
-
+### POSITIVAS:
 1. **Automatização de Tarefas Repetitivas**: A IA pode automatizar tarefas rotineiras e repetitivas, liberando os humanos para se concentrarem em tarefas mais criativas e estratégicas.
 
 2. **Eficiência e Produtividade**: A IA pode realizar tarefas com rapidez e precisão, levando a ganhos significativos em eficiência e produtividade em muitos setores.
@@ -42,8 +38,7 @@ A inteligência artificial (IA) apresenta diversas características positivas e 
 
 6. **Assistência a Pessoas com Deficiências**: A IA pode ser usada para criar tecnologias de assistência que melhoram a qualidade de vida de pessoas com deficiências, como sistemas de reconhecimento de fala para pessoas com deficiência visual.
 
-### Características Negativas:
-
+### NEGATIVAS:
 1. **Desemprego Tecnológico**: A automação impulsionada pela IA pode levar à perda de empregos em setores onde tarefas foram automatizadas, o que gera preocupações sobre o desemprego tecnológico.
 
 2. **Viés Algorítmico**: Algoritmos de IA podem refletir e amplificar viés humano presente nos dados de treinamento, resultando em discriminação em sistemas automatizados.
@@ -59,3 +54,7 @@ A inteligência artificial (IA) apresenta diversas características positivas e 
 7. **Substituição de Habilidades Humanas**: Em alguns casos, a IA pode substituir habilidades humanas, levando a uma redução na demanda por determinadas habilidades no mercado de trabalho.
 
 É importante reconhecer que a IA não é intrinsecamente boa ou má, mas suas aplicações e impactos dependem de como é desenvolvida, implementada e regulamentada. Portanto, é essencial considerar as implicações éticas e sociais da IA à medida que ela se torna mais presente em nossa vida cotidiana. A regulamentação e a governança adequadas da IA são cruciais para equilibrar as características positivas e negativas e garantir que ela beneficie a sociedade como um todo.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "UNIVESP"](https://youtube.com/playlist?list=PLxI8Can9yAHfY4b6dAzpH5_Z-gz4wM-Jq&si=ZyV-aOWCdEio-sIh)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
